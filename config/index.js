@@ -4,7 +4,7 @@ module.exports = {
     },
     browserOption: {
         pageToTrack: {
-            url: 'https://www.amazon.it/Sony-PlayStation%C2%AE5-DualSenseTM-Wireless-Controller/dp/B08H99BPJN/ref=rtpb_2?pd_rd_w=k5VXQ&pf_rd_p=c4e292c0-7449-4e07-92c0-14100af80ca3&pf_rd_r=5TQH6G13D7MW72M20BJ8&pd_rd_r=a0e6d0ca-594d-42e9-bb3b-487abd9269e6&pd_rd_wg=KkrIV&pd_rd_i=B08H99BPJN&psc=1',
+            url: '',
             timeout: 30000
         },
         selectors: {
